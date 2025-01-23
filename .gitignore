@@ -47,3 +47,6 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# data to ignore
+AO_ASVs_env_clean.csv
